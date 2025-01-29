@@ -1,7 +1,7 @@
 # Desafio Amigo Secreto
 
 Este é um projeto para a realização de sorteios de amigo secreto. Com ele, você pode adicionar nomes, visualizar a lista de participantes, e sortear as combinações de forma aleatória. O projeto foi desenvolvido com HTML, CSS e JavaScript.
-![Amigo Secreto](./assets/amigo-secreto.png)
+![Amigo Secreto](./amigo-secreto.png)
 
 ## Índice
 
